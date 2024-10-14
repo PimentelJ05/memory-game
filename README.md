@@ -28,15 +28,15 @@ Use the RESET button to restart the game at any time.
 
 Feel free to fork this project and submit a pull request with new features or improvements! Whether it’s adding more emojis, animations, or sound effects, we’d love to see your contributions. 🚀
 
-# 📦 Technologies Used
+## 📦 Technologies Used
 HTML5 for structure
 CSS3 for styling
 JavaScript for game logic
 
-#🎮 Try it Now!
+## 🎮 Try it Now!
 👉 [Play Memory Game](https://matchmania.netlify.app/) – Click to play directly in your browser (no installation needed)!
 
-# 💌 Special Thanks
+## 💌 Special Thanks
 JavaScript Enthusiasts for making the game logic smooth and interactive.
 
 CSS Gurus for crafting a beautiful and responsive design.
